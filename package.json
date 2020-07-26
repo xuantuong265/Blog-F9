@@ -1,0 +1,30 @@
+{
+  "name": "blog-f8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuantuong265/Blog-F9.git"
+  },
+  "keywords": [
+    "blog",
+    "F9"
+  ],
+  "author": "xuantuong265",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuantuong265/Blog-F9/issues"
+  },
+  "homepage": "https://github.com/xuantuong265/Blog-F9#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
